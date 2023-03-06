@@ -1,2 +1,1 @@
-# Strategic_Planning
-Strategic Planning Applied to an MSME: Case Study of a Toy Store
+# Strategic Planning: Case Study of a Toy Store
